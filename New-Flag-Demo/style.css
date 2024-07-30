@@ -1,0 +1,16 @@
+.boxone{
+    position: absolute;
+    left: 130px;
+    top: 70px;
+    height: 120px;
+    width: 120px;
+  background-color: red;
+  border-radius: 70px;
+  align-items: center;
+}
+.boxtwo{
+    height: 250px;
+    width: 400px;
+    background-color: green;
+}
+
